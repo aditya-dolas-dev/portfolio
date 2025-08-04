@@ -94,7 +94,7 @@ export const commands = {
   resume: `
 <div class="text-pink-400 font-semibold">Resume & CV</div>
 <div class="text-green-400">──────────────</div>
-<div class="text-blue-400">📄 Download Options: <a href="" class="text-blue-400 underline">Resume</a></div>
+<div class="text-blue-400">📄 Download Options: <a href="https://resume-v1.tiiny.site/" target="_blank" class="text-blue-400 underline">Resume</a></div>
 <div class="text-green-300">   • PDF Format: aditya-dolas-resume.pdf</div>
 <br/>
 <div class="text-blue-400">📋 Quick Summary:</div>
@@ -108,7 +108,7 @@ export const commands = {
 <div class="text-green-300">• Strong backend auth/security practices</div>
 <br/>
 <div class="text-blue-400">📚 Education:</div>
-<div class="text-green-300">B.Tech in Computer Science - RTM Nagpur University</div>
+<div class="text-green-300">B.Tech in Computer Science - Rashtrasant Tukadoji Maharaj Nagpur University</div>
 <div class="text-green-300">CGPA: 7.53</div>
 <br/>
 <div class="text-green-300">💡 Type 'download-resume' to get the full document!</div>
@@ -131,10 +131,10 @@ export const commands = {
 <div class="text-pink-400 font-semibold">Resume Download</div>
 <div class="text-green-400">─────────────────</div>
 <div class="text-blue-400">📥 Preparing download...</div>
-<div class="text-green-300">✓ Resume file ready: <a href="" class="text-blue-400 underline">
+<div class="text-green-300">✓ Resume file ready: <a href="https://resume-v1.tiiny.site/" target="_blank" class="text-blue-400 underline">
   Download File
 </a></div>
-<div class="text-green-300">✓ File size: 245 KB</div>
+<div class="text-green-300">✓ File size: 24.7 KB</div>
 <div class="text-green-300">✓ Last updated: July 2025</div>
 <br/>
 <div class="text-pink-400 font-semibold">Download initiated! Check your downloads folder.</div>`,
